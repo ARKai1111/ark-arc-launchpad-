@@ -10,9 +10,9 @@ Hello everyone 👋
 
 🔗 Official Links
 - Website: https://ark‑ai.xyz/hot | Backup: https://ccfspt.com/hot
-- X (Twitter): @ARKai168, @ARKwbe3
+- X (Twitter): https://x.com/arkwbe4?s=11（@ARKwbe4）
 - Telegram: t.me/ArcLaunchCommunity
 - Docs: https://ccfspt.com/docs
-
 We’re really looking forward to feedback, technical questions, and suggestions from the community.
 Leave your thoughts below!
+Public documents, https://ccfspt.com/docs
